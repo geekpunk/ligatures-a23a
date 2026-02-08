@@ -1,0 +1,134 @@
+{
+  "albumName": "A23a",
+  "artistName": "Ligatures",
+  "pageTitle": "Ligatures – A23a",
+  "images": {
+    "front": "images/a23a-front.jpg",
+    "back": "images/a23a-back.jpg"
+  },
+  "colors": {
+    "primary": "#f57242",
+    "heroBackground": "#f57242",
+    "background": "#111111",
+    "text": "#e0e0e0"
+  },
+  "tracks": [
+    {
+      "side": "A",
+      "number": "A1",
+      "name": "Tired of Me",
+      "duration": "2'50\"",
+      "file": "tired_of_me.mp3",
+      "lyrics": "Time's a railroad on rusting tracks\nforever going away, never coming back\nEvery new thing makes the world worse\nsteps away from home summon the hearse\n\nI'm tired, I'm oh so tired, I'm tired, I'm oh so tired of me\n\nLook at this mess that you've made\nCancelling the great pyramid over slaves\nEvery little problem could be solved with force\nMemories bring comfort; blinders to a horse\n\nI'm tired, I'm oh so tired, I'm tired, I'm of so tired of me \n\nWhy can't everything just stay in line?\nWho are you to say I'm losing my mind?\nIn the corner with the paint drying and the walls closing in\nI'm oh so tired of me"
+    },
+    {
+      "side": "A",
+      "number": "A2",
+      "name": "Life Disease",
+      "duration": "3'04\"",
+      "file": "life_disease.mp3",
+      "lyrics": "I've seen the sunset before    \nYeah, I've tasted food\nA job's a job; no net effect \nGood and bad and kind and rude\n\nDon't feel sad\nI don't feel sad \nSeeing that ghoul staring back at me\n\nParadise dust mites; cemetery wildflowers\nYou get used to the routine\nIt's life disease, it's being human\nSimple regression to the mean\n\nNo matter how horrible\nNo matter how wonderful\n\nYou'll get used to it"
+    },
+    {
+      "side": "A",
+      "number": "A3",
+      "name": "Freak Flag",
+      "duration": "2'31\"",
+      "file": "freak_flag.mp3",
+      "lyrics": "Don't abandon your dreams\nShut them out until they leave you \nIn the middle of the night \nOver what you've become\n\nYou're not the man\nYou're not the man you once were \nYou're not the man who fell in love with\nYou're not the man who fell\n\nFurl that freak flag\nStow it in the overhead bin\nLeft behind in the rush to the exit\nEnd up in the lost and found in Berlin\n\nBlame the alarm clock \nBlame the everything  \nAs though that changes something \nLike that counts as a win"
+    },
+    {
+      "side": "A",
+      "number": "A4",
+      "name": "Nocebo",
+      "duration": "1'45\"",
+      "file": "nocebo.mp3",
+      "lyrics": "See package for additional warnings\nConsult doctor for sensations of burning\nTalk to therapist if the world's stopped turning\n\nIt's the price of doing business\nA tax that must be paid\n\nPress down and turn use as directed\nSide effects may include feeling infected\nMay include dry mouth, extra sensory perceptions \nmay include feelings of identity and direction\n\nIt's the price of doing business\nA tax that must be paid\nMagic bullets don't come cheap magic bullet never free\nMagic bullet might hit the mark magic bullet might ricochet"
+    },
+    {
+      "side": "A",
+      "number": "A5",
+      "name": "Dirtiest Bomb",
+      "duration": "2'20\"",
+      "file": "dirtiest_bomb.mp3",
+      "lyrics": "When The Road comes true you can have no doubt\nI'll sink my teeth in a baby before the canned goods run out\nWhen you're busy with stretchers and saline trying to save lives\nI'll be safe in the bunker, like a cockroach I'll survive\n\nLife's the only thing worth living for\nGot one eye on the clock got one foot out the door\n\nNow I may not be the smartest maybe not the strongest\nmaybe not the bravest, but I'm staying alive the longest\nImpatiently waiting for society's fall\nThey got the dirty bomb but I'll out-dirty them all\n\nLife's the only thing worth living for\nGot one eye on the clock got one foot out the door\n \nI'm putting all my money into ammo and gold\nI may not like life but at least I'm getting old\nI'm putting my money in ammo\nI'm putting my money in gold"
+    },
+    {
+      "side": "A",
+      "number": "A6",
+      "name": "Convulsive Lyres",
+      "duration": "2'13\"",
+      "file": "convulsive_lyres.mp3",
+      "lyrics": "Best viewed through a prism\nIt's all in who you know \nBoomeranging altruism\nMight as well enjoy the show\n\nCompulsive liars\nNever feel the ground\nConvulsive lyres\nNever making a sound\n\nDoes the left hand know its action \nExegesis of thin air \nMultiplication or subtraction\nWho could say what's ever there \n\nIf you believe it \nwho could deny it\nIf it's for sale\nSomeone is ready to buy it\n\nRepackaged self hypnosis\nSnakes are oiled have no fear\nMystery cult built on gnosis \nHats off to the man of the year"
+    },
+    {
+      "side": "B",
+      "number": "B1",
+      "name": "Instant Death",
+      "duration": "2'49\"",
+      "file": "instant_death.mp3",
+      "lyrics": "Als het komt\nEn het niet wil\nLaat het snel zijn\nZonder voorafschaduwing\nZonder herkenning\nhet beste voor iedereen\nOnmiddellijke dood\nGrootvader sterft, vader sterft, kinderen sterven"
+    },
+    {
+      "side": "B",
+      "number": "B2",
+      "name": "Creator",
+      "duration": "3'07\"",
+      "file": "creator.mp3",
+      "lyrics": "Here in your cell you can regulate, chastise\nHere in your cell you can monitor and recontextualize \nHere in your cell you feel safest of all\nSo much to share as you're bearing the pall\n\nWe are not family\n\nTakes at scale, so many tastes to be made\nContent production, industrial grade\nAs above so below, as above so below, \nHow else can we know who's damned and who's saved\n\n\nThere's nothing wrong with not having an opinion \nThere's nothing wrong with shutting up\n\nIf all we want is all we need\nAll we're left with constant need\nContrary to opinion, you can just not listen\nContrary to opinion, you can always step outside"
+    },
+    {
+      "side": "B",
+      "number": "B3",
+      "name": "Crawlspace Dictator",
+      "duration": "3'27\"",
+      "file": "crawlspace_dictator.mp3",
+      "lyrics": "Crawlspace dictator\nBreakroom commandant \nBus shelter vigilante\nParking space amateur cop\n\nDefend\nyour territory \nNo one gets over\nNo one gets in \n\nBlock patrol headmaster\nMayor of the gas station\nStrip mall general\nGulag homeowner association\n\nWho makes the monsters\nWho crafts the hatred in their hearts\nSurely not from nowhere\nWho's responsible for this dark?\nMaintain and preserve\nStrength from within"
+    },
+    {
+      "side": "B",
+      "number": "B4",
+      "name": "The Knife",
+      "duration": "2'16\"",
+      "file": "the_knife.mp3",
+      "lyrics": "Left right\nBack and forth\nStraight ahead\nDon't think\nDon't blink\nFucking fight\nTake it all\nTake it in\nTake it all\n\nI've seen this road before\nThe stairs up that hill\nMy hands your hands\nthe knife the rope\nA friend with broken hearts\nand unhealed scars \nYour sisters hopes and \nbroken chairs\n\nTake this fucker \nFor all we got \nTake this fucker\nTo the end\n\nFuck your \nFuck your \nsacrifice"
+    },
+    {
+      "side": "B",
+      "number": "B5",
+      "name": "If I Can't Have What I Want",
+      "duration": "1'48\"",
+      "file": "if_i_cant_have_what_i_want.mp3",
+      "lyrics": "On a chain gang\nClearly swim or sink \nCodependence\nNever going to blink\nIf I can't have what I want \n\nEnemy of an enemy\nDoesn't make a friend\nCompromise is cowardice\nSee it to the end \nIf I can't have what I want\n\nPlaying chicken \nWith passenger lives \nThat practicality\nReject and despise\nIf I can't have what I want, I don't want anyone to have anything"
+    },
+    {
+      "side": "B",
+      "number": "B6",
+      "name": "Pagans Won",
+      "duration": "3'18\"",
+      "file": "pagans_won.mp3",
+      "lyrics": "Rename the holidays\nDuct tape new fictions to old\nWallpaper on nature\nBubbles straight through like mold\n\nYou can update the local gods\nPretend they forgive  \nProve we're all the same\nSort by color, culture, caste\n\nYou can document the world\nDisprove ghosts and myths\nNuance, intersectionality \nSticks surrounding an ax\n\nPagans won"
+    }
+  ],
+  "credits": {
+    "paragraphs": [
+      "All music & lyrics by Dan Goldberg, Mike Wolf, JD Foster.",
+      {
+        "text": "Engineered & Mixed by Dan Godwin at ",
+        "link": {
+          "text": "Tonal Park",
+          "url": "https://www.tonalpark.com/"
+        },
+        "suffix": " in Takoma Park, Maryland in early 2024."
+      },
+      "Scene Police Records SCP #42."
+    ]
+  },
+  "links": {
+    "github": "https://github.com/geekpunk/ligatures-a23a",
+    "instagram": "https://www.instagram.com/ligatures_dc/",
+    "bandcamp": "https://ligatures.bandcamp.com/album/a23a"
+  },
+  "footer": "Streaming services are worse than the record industry was before it. Support artists directly.",
+  "downloadZip": "ligatures-a23a-album.zip"
+}
